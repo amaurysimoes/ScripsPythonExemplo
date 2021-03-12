@@ -1,0 +1,4 @@
+Como Criar um executável em Python:
+
+https://www.criarfazer.net/como-criar-um-script-executavel-em-python/
+http://www.py2exe.org/
